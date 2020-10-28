@@ -1,0 +1,20 @@
+body{
+  background-color: papayawhip;
+}
+h1{
+  color: #A52A2A;
+  text-shadow: 2px 2px 5px blue;
+}
+h3{
+  color: #A52A2A;
+  text-decoration: underline;
+}
+hr{
+
+  border-style:none;
+  border-top-style: dotted;
+  border-color: saddlebrown;
+  border-width: 2px;
+  width: 5%;
+
+}
